@@ -10,10 +10,9 @@ A Chrome Extension that lets users highlight important text on articles, save cl
 - Clean, user-friendly UI using a soft pastel theme
 - MV3 compliant extension structure
 
-## UI / UX Design
-- **Fonts**: Poppins (headings), Inter (body)
-- **Theme**: Calm, readable pastel palette (inspired by provided theme)
-- **Layout**: Minimal, distraction-free popup
+## Screenshots
+<img width="1228" height="636" alt="Screenshot 2025-12-14 153536" src="https://github.com/user-attachments/assets/07e20a24-bddb-4c5c-a116-685d87d89ef6" />
+> Screenshots and examples shown in this repository represent the current state of the project and may not reflect the final polished version.
 
 ## What’s Left To Do
 - Serverless summarization API (Vercel / Cloud Function)
@@ -34,11 +33,5 @@ A Chrome Extension that lets users highlight important text on articles, save cl
 3. Enable **Developer mode**
 4. Click **Load unpacked**
 5. Select this folder
-
-## Future Roadmap
-- Replace popup with React + Vite
-- Add side panel UI
-- Deploy summarization endpoint
-- Polish animations & accessibility
 
 Made for learning content scripts, messaging, storage, and secure API integration.
