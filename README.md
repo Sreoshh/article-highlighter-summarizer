@@ -10,6 +10,15 @@ A Chrome Extension that lets users highlight important text on articles, save cl
 - Clean, user-friendly UI using a soft pastel theme
 - MV3 compliant extension structure
 
+
+## Screenshots
+Shows the latest updated version panel and is subjected to change frequently
+
+![Current Panel](assets/v1.png)
+
+>  Have a look at the CHANGELOG.md for the clean updation history
+
+
 ## UI / UX Design
 - **Fonts**: Poppins (headings), Inter (body)
 - **Theme**: Calm, readable pastel palette (inspired by provided theme)
