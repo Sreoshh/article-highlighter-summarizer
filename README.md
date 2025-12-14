@@ -23,13 +23,6 @@ A Chrome Extension that lets users highlight important text on articles, save cl
 - **Theme**: Calm, readable pastel palette (inspired by provided theme)
 - **Layout**: Minimal, distraction-free popup
 
-## What’s Left To Do
-- Serverless summarization API (Vercel / Cloud Function)
-- Secure API key handling
-- Readability.js integration for article extraction
-- Export / copy highlights
-- Inline translation (optional)
-- Sync support and offline summarization fallback
 
 ## Tech Stack
 - Vanilla JS (can be upgraded to TypeScript + React)
