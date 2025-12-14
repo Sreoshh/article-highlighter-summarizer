@@ -10,7 +10,6 @@ A Chrome Extension that lets users highlight important text on articles, save cl
 - Clean, user-friendly UI using a soft pastel theme
 - MV3 compliant extension structure
 
-<<<<<<< HEAD
 
 ## Screenshots
 Shows the latest updated version panel and is subjected to change frequently
