@@ -21,7 +21,7 @@ The format is inspired by *Keep a Changelog* and follows basic semantic versioni
 - Saved texts remain until manually deleted
 
 <!-- Screenshots for this version -->
-![Highlighted Texts](assets/v1.png)
+![Highlighted - Texts](assets/v1.png)
 
 
 ---
@@ -43,7 +43,7 @@ The format is inspired by *Keep a Changelog* and follows basic semantic versioni
   - Text is highlighted and saved
 
   <!-- Screenshots for this version -->
- ![Saved texts](assets/v1-highlighted-texts.png)
+ ![Saved - texts](assets/v1-highlighted-texts.png)
 
 ---
 
